@@ -1,0 +1,33 @@
+{
+  "name": "landscape",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "index.js",
+  "author": "sidge",
+  "license": "MIT",
+  "types": "./types/mypackage.d.ts",
+  "keywords": [
+    "country",
+    "information",
+    "ISO codes",
+    "names",
+    "data",
+    "landscape",
+    "landscapes",
+    "world"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sidge4real/landscape.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sidge4real/landscape/issues"
+  },
+  "homepage": "https://github.com/Sidge4real/landscape#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+  }
+}
