@@ -5,7 +5,6 @@
   "main": "index.js",
   "author": "sidge",
   "license": "MIT",
-  "types": "./types/mypackage.d.ts",
   "keywords": [
     "country",
     "information",

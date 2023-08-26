@@ -27,7 +27,6 @@ dist/
 .DS_Store
 
 # Ignore compiled TypeScript files
-*.js
 *.js.map
 
 # Ignore package debugging files
