@@ -1,0 +1,1111 @@
+{
+    "Albania": {
+        "currency": "Albanian lek",
+        "economic_status": "average",
+        "capital_city": "Tirana",
+        "approximate_population": "approximately number of citizens: 2,800,000",
+        "political_status": "democratic",
+        "history_description": "Albania is a country located in Southeast Europe on the Balkan Peninsula. It has a rich historical background, with influences from the Illyrians, Greeks, Romans, and Ottoman Empire.",
+        "landscapes": [
+            "Mountains",
+            "Coastline",
+            "Plains"
+        ],
+        "languages": [
+            "Albanian"
+        ],
+        "memberships": [
+            "NATO",
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Andorra": {
+        "currency": "Euro",
+        "economic_status": "strong",
+        "capital_city": "Andorra la Vella",
+        "approximate_population": "approximately number of citizens: 77,000",
+        "political_status": "parliamentary democracy",
+        "history_description": "Andorra is a small landlocked country located in the eastern Pyrenees Mountains between France and Spain. It has a unique co-principality system with two heads of state: the President of France and the Bishop of Urgell.",
+        "landscapes": [
+            "Mountains",
+            "Valleys"
+        ],
+        "languages": [
+            "Catalan"
+        ],
+        "memberships": [
+            "UNESCO"
+        ],
+        "military_situation": "weak",
+        "continent": "europe"
+    },
+    "Belgium": {
+        "currency": "Euro",
+        "economic_status": "strong",
+        "capital_city": "Brussels",
+        "approximate_population": "approximately number of citizens: 11,500,000",
+        "political_status": "federal parliamentary democracy",
+        "history_description": "Belgium is a Western European country known for its medieval towns, Renaissance architecture, and as the headquarters of the European Union and NATO.",
+        "landscapes": [
+            "Plains",
+            "Forests"
+        ],
+        "languages": [
+            "Dutch",
+            "French",
+            "German"
+        ],
+        "memberships": [
+            "EU",
+            "NATO"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Bosnia and Herzegovina": {
+        "currency": "Bosnia and Herzegovina convertible mark",
+        "economic_status": "low",
+        "capital_city": "Sarajevo",
+        "approximate_population": "approximately number of citizens: 3,500,000",
+        "political_status": "federal parliamentary republic",
+        "history_description": "Bosnia and Herzegovina is located on the Balkan Peninsula in Southeast Europe. It experienced a devastating civil war in the 1990s and is now on the path of post-war recovery and reconciliation.",
+        "landscapes": [
+            "Mountains",
+            "Rivers"
+        ],
+        "languages": [
+            "Bosnian",
+            "Croatian",
+            "Serbian"
+        ],
+        "memberships": [
+            "UN",
+            "WTO"
+        ],
+        "military_situation": "weak",
+        "continent": "europe"
+    },
+    "Bulgaria": {
+        "currency": "Bulgarian lev",
+        "economic_status": "average",
+        "capital_city": "Sofia",
+        "approximate_population": "approximately number of citizens: 6,900,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Bulgaria is a country in Southeast Europe known for its rich history and cultural heritage. It was once a powerful empire during the medieval period.",
+        "landscapes": [
+            "Mountains",
+            "Black Sea Coast"
+        ],
+        "languages": [
+            "Bulgarian"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Cyprus": {
+        "currency": "Euro",
+        "economic_status": "average",
+        "capital_city": "Nicosia",
+        "approximate_population": "approximately number of citizens: 1,200,000",
+        "political_status": "presidential republic",
+        "history_description": "Cyprus is an island country in the Eastern Mediterranean with a rich history dating back to ancient times. It has been influenced by various civilizations, including the Greeks, Romans, and Byzantines.",
+        "landscapes": [
+            "Coastline",
+            "Mountains"
+        ],
+        "languages": [
+            "Greek",
+            "Turkish"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Denmark": {
+        "currency": "Danish krone",
+        "economic_status": "strong",
+        "capital_city": "Copenhagen",
+        "approximate_population": "approximately number of citizens: 5,800,000",
+        "political_status": "parliamentary constitutional monarchy",
+        "history_description": "Denmark is a Scandinavian country known for its rich history, Vikings, and significant contributions to science and exploration. It consists of the Jutland Peninsula and numerous islands.",
+        "landscapes": [
+            "Coastline",
+            "Plains"
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "memberships": [
+            "EU",
+            "NATO"
+        ],
+        "military_situation": "strong",
+        "continent": "europe"
+    },
+    "Germany": {
+        "currency": "Euro",
+        "economic_status": "strong",
+        "capital_city": "Berlin",
+        "approximate_population": "approximately number of citizens: 83,200,000",
+        "political_status": "federal parliamentary republic",
+        "history_description": "Germany is a Central European country known for its historical significance, including the World Wars and the fall of the Berlin Wall. It has played a crucial role in shaping European history and politics.",
+        "landscapes": [
+            "Forests",
+            "Mountains",
+            "Rivers"
+        ],
+        "languages": [
+            "German"
+        ],
+        "memberships": [
+            "EU",
+            "NATO"
+        ],
+        "military_situation": "strong",
+        "continent": "europe"
+    },
+    "Estonia": {
+        "currency": "Euro",
+        "economic_status": "strong",
+        "capital_city": "Tallinn",
+        "approximate_population": "approximately number of citizens: 1,300,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Estonia is a Baltic country in Northern Europe known for its digital advancement and natural beauty. It has a history of occupation by various powers but regained its independence in 1991.",
+        "landscapes": [
+            "Forests",
+            "Lakes"
+        ],
+        "languages": [
+            "Estonian"
+        ],
+        "memberships": [
+            "EU",
+            "NATO"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Finland": {
+        "currency": "Euro",
+        "economic_status": "strong",
+        "capital_city": "Helsinki",
+        "approximate_population": "approximately number of citizens: 5,500,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Finland is a Nordic country in Northern Europe known for its stunning landscapes, including lakes, forests, and the Northern Lights. It has a unique history of both Swedish and Russian influences.",
+        "landscapes": [
+            "Lakes",
+            "Forests"
+        ],
+        "languages": [
+            "Finnish",
+            "Swedish"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "strong",
+        "continent": "europe"
+    },
+    "France": {
+        "currency": "Euro",
+        "economic_status": "strong",
+        "capital_city": "Paris",
+        "approximate_population": "approximately number of citizens: 67,200,000",
+        "political_status": "republic",
+        "history_description": "France is a Western European country known for its rich history, cultural heritage, and contributions to art, literature, and philosophy. It has played a significant role in world affairs and colonization during the past centuries.",
+        "landscapes": [
+            "Mountains",
+            "Plains",
+            "Coastline"
+        ],
+        "languages": [
+            "French"
+        ],
+        "memberships": [
+            "EU",
+            "NATO"
+        ],
+        "military_situation": "strong",
+        "continent": "europe"
+    },
+    "Greece": {
+        "currency": "Euro",
+        "economic_status": "average",
+        "capital_city": "Athens",
+        "approximate_population": "approximately number of citizens: 10,400,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Greece is a Southern European country known for its ancient history, being the birthplace of democracy, philosophy, and Western civilization. It has a diverse landscape with numerous islands and historical sites.",
+        "landscapes": [
+            "Mountains",
+            "Islands",
+            "Coastline"
+        ],
+        "languages": [
+            "Greek"
+        ],
+        "memberships": [
+            "EU",
+            "NATO"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Hungary": {
+        "currency": "Hungarian forint",
+        "economic_status": "average",
+        "capital_city": "Budapest",
+        "approximate_population": "approximately number of citizens: 9,600,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Hungary is a Central European country known for its unique language, rich cultural heritage, and historical contributions to science and the arts. It was once part of the Austro-Hungarian Empire.",
+        "landscapes": [
+            "Plains",
+            "Hills",
+            "Rivers"
+        ],
+        "languages": [
+            "Hungarian"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Ireland": {
+        "currency": "Euro",
+        "economic_status": "strong",
+        "capital_city": "Dublin",
+        "approximate_population": "approximately number of citizens: 4,900,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Ireland is an island country in Western Europe known for its lush green landscapes, rich literary tradition, and Celtic heritage. It has a history of struggles for independence and Irish culture remains significant.",
+        "landscapes": [
+            "Countryside",
+            "Coastline"
+        ],
+        "languages": [
+            "Irish",
+            "English"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "strong",
+        "continent": "europe"
+    },
+    "Iceland": {
+        "currency": "Icelandic króna",
+        "economic_status": "strong",
+        "capital_city": "Reykjavik",
+        "approximate_population": "approximately number of citizens: 360,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Iceland is a Nordic island country known for its stunning natural beauty, including geysers, glaciers, and volcanoes. It has a small and tightly-knit population.",
+        "landscapes": [
+            "Volcanoes",
+            "Glaciers",
+            "Hot Springs"
+        ],
+        "languages": [
+            "Icelandic"
+        ],
+        "memberships": [
+            "EFTA",
+            "NATO"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Italy": {
+        "currency": "Euro",
+        "economic_status": "average",
+        "capital_city": "Rome",
+        "approximate_population": "approximately number of citizens: 60,300,000",
+        "political_status": "republic",
+        "history_description": "Italy is a Southern European country known for its rich history, art, architecture, and cuisine. It was once the center of the Roman Empire and played a crucial role in the Renaissance.",
+        "landscapes": [
+            "Mountains",
+            "Coastline",
+            "Plains"
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Kosovo": {
+        "currency": "Euro",
+        "economic_status": "low",
+        "capital_city": "Pristina",
+        "approximate_population": "approximately number of citizens: 1,800,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Kosovo is a landlocked country in the Balkans known for its complex history and ethnic diversity. It declared independence from Serbia in 2008, but its status remains a subject of international debate.",
+        "landscapes": [
+            "Mountains",
+            "Plains"
+        ],
+        "languages": [
+            "Albanian",
+            "Serbian"
+        ],
+        "memberships": [
+            "UN"
+        ],
+        "military_situation": "weak",
+        "continent": "europe"
+    },
+    "Croatia": {
+        "currency": "Kuna",
+        "economic_status": "average",
+        "capital_city": "Zagreb",
+        "approximate_population": "approximately number of citizens: 4,100,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Croatia is a country in Southeast Europe known for its beautiful Adriatic coastline and historic cities. It was part of Yugoslavia until it declared independence in 1991.",
+        "landscapes": [
+            "Coastline",
+            "Mountains"
+        ],
+        "languages": [
+            "Croatian"
+        ],
+        "memberships": [
+            "EU",
+            "NATO"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Latvia": {
+        "currency": "Euro",
+        "economic_status": "average",
+        "capital_city": "Riga",
+        "approximate_population": "approximately number of citizens: 1,900,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Latvia is a Baltic country in Northern Europe known for its pristine nature, medieval towns, and rich cultural traditions. It was occupied by various powers during its history.",
+        "landscapes": [
+            "Forests",
+            "Beaches",
+            "Rivers"
+        ],
+        "languages": [
+            "Latvian"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Liechtenstein": {
+        "currency": "Swiss franc",
+        "economic_status": "strong",
+        "capital_city": "Vaduz",
+        "approximate_population": "approximately number of citizens: 39,000",
+        "political_status": "constitutional monarchy",
+        "history_description": "Liechtenstein is a tiny, landlocked country in Central Europe known for its stunning Alpine landscapes and strong banking sector. It is one of the world's smallest and wealthiest countries.",
+        "landscapes": [
+            "Mountains",
+            "Valleys"
+        ],
+        "languages": [
+            "German"
+        ],
+        "memberships": [
+            "EFTA"
+        ],
+        "military_situation": "weak",
+        "continent": "europe"
+    },
+    "Lithuania": {
+        "currency": "Euro",
+        "economic_status": "average",
+        "capital_city": "Vilnius",
+        "approximate_population": "approximately number of citizens: 2,700,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Lithuania is a Baltic country in Northern Europe known for its rich history and cultural heritage. It was once one of the largest countries in Europe during the Middle Ages, with a powerful Grand Duchy.",
+        "landscapes": [
+            "Forests",
+            "Lakes",
+            "Coastline"
+        ],
+        "languages": [
+            "Lithuanian"
+        ],
+        "memberships": [
+            "EU",
+            "NATO"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Luxembourg": {
+        "currency": "Euro",
+        "economic_status": "strong",
+        "capital_city": "Luxembourg City",
+        "approximate_population": "approximately number of citizens: 634,000",
+        "political_status": "constitutional monarchy",
+        "history_description": "Luxembourg is a small landlocked country in Western Europe known for its high standard of living and strong financial sector. It is one of the founding members of the European Union.",
+        "landscapes": [
+            "Rolling Hills",
+            "Forests"
+        ],
+        "languages": [
+            "Luxembourgish",
+            "French",
+            "German"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "weak",
+        "continent": "europe"
+    },
+    "Malta": {
+        "currency": "Euro",
+        "economic_status": "average",
+        "capital_city": "Valletta",
+        "approximate_population": "approximately number of citizens: 514,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Malta is a Southern European island country known for its ancient history, including the Knights of Malta. It has a Mediterranean climate and beautiful coastal landscapes.",
+        "landscapes": [
+            "Coastline",
+            "Hills"
+        ],
+        "languages": [
+            "Maltese",
+            "English"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "weak",
+        "continent": "europe"
+    },
+    "Moldova": {
+        "currency": "Moldovan leu",
+        "economic_status": "low",
+        "capital_city": "Chisinau",
+        "approximate_population": "approximately number of citizens: 2,640,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Moldova is a landlocked country in Eastern Europe, situated between Romania and Ukraine. It has a history of being part of various empires and was once part of the Soviet Union.",
+        "landscapes": [
+            "Plains",
+            "Hills"
+        ],
+        "languages": [
+            "Moldovan",
+            "Romanian"
+        ],
+        "memberships": [
+            "UN",
+            "CIS"
+        ],
+        "military_situation": "weak",
+        "continent": "europe"
+    },
+    "Monaco": {
+        "currency": "Euro",
+        "economic_status": "strong",
+        "capital_city": "Monaco",
+        "approximate_population": "approximately number of citizens: 39,000",
+        "political_status": "constitutional monarchy",
+        "history_description": "Monaco is a tiny city-state located on the French Riviera in Western Europe. It is known for its luxury lifestyle, famous casino, and annual Formula 1 Grand Prix race.",
+        "landscapes": [
+            "Coastline",
+            "Hills"
+        ],
+        "languages": [
+            "French"
+        ],
+        "memberships": [
+            "UNESCO"
+        ],
+        "military_situation": "weak",
+        "continent": "europe"
+    },
+    "Montenegro": {
+        "currency": "Euro",
+        "economic_status": "average",
+        "capital_city": "Podgorica",
+        "approximate_population": "approximately number of citizens: 620,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Montenegro is a small Balkan country known for its diverse landscapes, including rugged mountains and beautiful Adriatic coastline. It gained independence from Serbia in 2006.",
+        "landscapes": [
+            "Mountains",
+            "Coastline"
+        ],
+        "languages": [
+            "Montenegrin"
+        ],
+        "memberships": [
+            "UN"
+        ],
+        "military_situation": "weak",
+        "continent": "europe"
+    },
+    "Netherlands": {
+        "currency": "Euro",
+        "economic_status": "strong",
+        "capital_city": "Amsterdam",
+        "approximate_population": "approximately number of citizens: 17,600,000",
+        "political_status": "constitutional monarchy",
+        "history_description": "The Netherlands is a Western European country known for its flat landscape, windmills, tulip fields, and extensive system of canals. It has a history of exploration and trade.",
+        "landscapes": [
+            "Flat Land",
+            "Canals",
+            "Tulip Fields"
+        ],
+        "languages": [
+            "Dutch"
+        ],
+        "memberships": [
+            "EU",
+            "NATO"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "North Macedonia": {
+        "currency": "Macedonian denar",
+        "economic_status": "low",
+        "capital_city": "Skopje",
+        "approximate_population": "approximately number of citizens: 2,100,000",
+        "political_status": "parliamentary republic",
+        "history_description": "North Macedonia is a landlocked country in the Balkan Peninsula known for its diverse cultural heritage and historical significance, including the ancient kingdom of Macedonia.",
+        "landscapes": [
+            "Mountains",
+            "Plains",
+            "Lakes"
+        ],
+        "languages": [
+            "Macedonian"
+        ],
+        "memberships": [
+            "UN"
+        ],
+        "military_situation": "weak",
+        "continent": "europe"
+    },
+    "Norway": {
+        "currency": "Norwegian krone",
+        "economic_status": "strong",
+        "capital_city": "Oslo",
+        "approximate_population": "approximately number of citizens: 5,300,000",
+        "political_status": "constitutional monarchy",
+        "history_description": "Norway is a Nordic country known for its stunning fjords, mountains, and northern lights. It has a rich seafaring history and once had a powerful Viking empire.",
+        "landscapes": [
+            "Fjords",
+            "Mountains",
+            "Forests"
+        ],
+        "languages": [
+            "Norwegian"
+        ],
+        "memberships": [
+            "EFTA",
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Ukraine": {
+        "currency": "Ukrainian hryvnia",
+        "economic_status": "low",
+        "capital_city": "Kyiv",
+        "approximate_population": "approximately number of citizens: 42,500,000",
+        "political_status": "unitary semi-presidential republic",
+        "history_description": "Ukraine is the largest country in Europe, known for its fertile farmlands, rich cultural heritage, and complex history with ties to Russia and the Soviet Union.",
+        "landscapes": [
+            "Plains",
+            "Mountains",
+            "Coastline"
+        ],
+        "languages": [
+            "Ukrainian"
+        ],
+        "memberships": [
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Austria": {
+        "currency": "Euro",
+        "economic_status": "strong",
+        "capital_city": "Vienna",
+        "approximate_population": "approximately number of citizens: 9,000,000",
+        "political_status": "federal parliamentary republic",
+        "history_description": "Austria is a landlocked country in Central Europe known for its rich cultural heritage, including famous composers like Mozart and Strauss. It was once a powerful empire under the Habsburg monarchy.",
+        "landscapes": [
+            "Mountains",
+            "Lakes",
+            "Valleys"
+        ],
+        "languages": [
+            "German"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "strong",
+        "continent": "europe"
+    },
+    "Poland": {
+        "currency": "Polish złoty",
+        "economic_status": "average",
+        "capital_city": "Warsaw",
+        "approximate_population": "approximately number of citizens: 38,000,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Poland is a country in Central Europe with a history of resilience and struggle for independence. It was once the Polish-Lithuanian Commonwealth, one of the largest and most powerful states in Europe.",
+        "landscapes": [
+            "Plains",
+            "Forests",
+            "Mountains"
+        ],
+        "languages": [
+            "Polish"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Portugal": {
+        "currency": "Euro",
+        "economic_status": "average",
+        "capital_city": "Lisbon",
+        "approximate_population": "approximately number of citizens: 10,300,000",
+        "political_status": "republic",
+        "history_description": "Portugal is a Southern European country known for its maritime history, including exploration during the Age of Discovery. It was once a powerful colonial empire.",
+        "landscapes": [
+            "Coastline",
+            "Mountains",
+            "Plains"
+        ],
+        "languages": [
+            "Portuguese"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Romania": {
+        "currency": "Romanian leu",
+        "economic_status": "average",
+        "capital_city": "Bucharest",
+        "approximate_population": "approximately number of citizens: 19,100,000",
+        "political_status": "semi-presidential republic",
+        "history_description": "Romania is a country in Eastern Europe known for its diverse landscapes and historical sites, including the region of Transylvania. It was once part of the Roman Empire.",
+        "landscapes": [
+            "Mountains",
+            "Plains",
+            "Coastline"
+        ],
+        "languages": [
+            "Romanian"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Russia": {
+        "currency": "Russian ruble",
+        "economic_status": "average",
+        "capital_city": "Moscow",
+        "approximate_population": "approximately number of citizens: 146,600,000",
+        "political_status": "federal semi-presidential republic",
+        "history_description": "Russia is the largest country in the world, spanning Eastern Europe and Northern Asia. It has a vast history, from the Tsars and the Russian Empire to the Soviet Union.",
+        "landscapes": [
+            "Plains",
+            "Mountains",
+            "Tundra"
+        ],
+        "languages": [
+            "Russian"
+        ],
+        "memberships": [
+            "UN"
+        ],
+        "military_situation": "strong",
+        "continent": ["europe" , "asia"]
+    },
+    "San Marino": {
+        "currency": "Euro",
+        "economic_status": "average",
+        "capital_city": "San Marino",
+        "approximate_population": "approximately number of citizens: 34,000",
+        "political_status": "parliamentary republic",
+        "history_description": "San Marino is a small landlocked microstate surrounded by Italy. It claims to be the oldest existing sovereign state, with a history dating back to AD 301.",
+        "landscapes": [
+            "Hills",
+            "Mountains"
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "memberships": [
+            "UNESCO"
+        ],
+        "military_situation": "weak",
+        "continent": "europe"
+    },
+    "Serbia": {
+        "currency": "Serbian dinar",
+        "economic_status": "average",
+        "capital_city": "Belgrade",
+        "approximate_population": "approximately number of citizens: 7,000,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Serbia is a country in Southeast Europe known for its rich history, including the medieval Serbian Empire and its role in the Balkan wars and conflicts.",
+        "landscapes": [
+            "Plains",
+            "Mountains",
+            "Rivers"
+        ],
+        "languages": [
+            "Serbian"
+        ],
+        "memberships": [
+            "UN",
+            "WTO"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Slovenia": {
+        "currency": "Euro",
+        "economic_status": "average",
+        "capital_city": "Ljubljana",
+        "approximate_population": "approximately number of citizens: 2,100,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Slovenia is a Central European country known for its beautiful landscapes, including the Julian Alps and the Adriatic coastline. It was once part of Yugoslavia.",
+        "landscapes": [
+            "Mountains",
+            "Forests",
+            "Coastline"
+        ],
+        "languages": [
+            "Slovene"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Slovakia": {
+        "currency": "Euro",
+        "economic_status": "average",
+        "capital_city": "Bratislava",
+        "approximate_population": "approximately number of citizens: 5,500,000",
+        "political_status": "parliamentary republic",
+        "history_description": "Slovakia is a Central European country known for its medieval towns, castles, and natural beauty. It was once part of Czechoslovakia.",
+        "landscapes": [
+            "Mountains",
+            "Plains",
+            "Rivers"
+        ],
+        "languages": [
+            "Slovak"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Spain": {
+        "currency": "Euro",
+        "economic_status": "average",
+        "capital_city": "Madrid",
+        "approximate_population": "approximately number of citizens: 46,900,000",
+        "political_status": "parliamentary monarchy",
+        "history_description": "Spain is a Southern European country known for its diverse culture, rich history, and famous landmarks like the Sagrada Familia and Alhambra. It was once a powerful colonial empire.",
+        "landscapes": [
+            "Mountains",
+            "Coastline",
+            "Plains"
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Czech Republic": {
+        "currency": "Czech koruna",
+        "economic_status": "average",
+        "capital_city": "Prague",
+        "approximate_population": "approximately number of citizens: 10,700,000",
+        "political_status": "parliamentary republic",
+        "history_description": "The Czech Republic is a landlocked country in Central Europe known for its historic castles, medieval towns, and contributions to literature and music.",
+        "landscapes": [
+            "Mountains",
+            "Plains",
+            "Rivers"
+        ],
+        "languages": [
+            "Czech"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Turkey": {
+        "currency": "Turkish lira",
+        "economic_status": "average",
+        "capital_city": "Ankara",
+        "approximate_population": "approximately number of citizens: 84,000,000",
+        "political_status": "presidential republic",
+        "history_description": "Turkey is a transcontinental country, with a part of its territory in both Europe and Asia. It has a history that stretches back to ancient civilizations, including the Byzantine and Ottoman Empires.",
+        "landscapes": [
+            "Mountains",
+            "Coastline",
+            "Plains"
+        ],
+        "languages": [
+            "Turkish"
+        ],
+        "memberships": [
+            "UN",
+            "G20"
+        ],
+        "military_situation": "strong",
+        "continent": ["europe" , "asia"]
+    },
+    "Vatican City": {
+        "currency": "Euro",
+        "economic_status": "strong",
+        "capital_city": "Vatican City",
+        "approximate_population": "approximately number of citizens: 800",
+        "political_status": "absolute elective monarchy",
+        "history_description": "Vatican City is the smallest independent state in the world and the spiritual and administrative center of the Roman Catholic Church. It is located within Rome, Italy.",
+        "landscapes": [
+            "Urban"
+        ],
+        "languages": [
+            "Italian",
+            "Latin"
+        ],
+        "memberships": [
+            "Holy See (UN observer)"
+        ],
+        "military_situation": "weak",
+        "continent": "europe"
+    },
+    "United Kingdom": {
+        "currency": "British pound",
+        "economic_status": "strong",
+        "capital_city": "London",
+        "approximate_population": "approximately number of citizens: 66,600,000",
+        "political_status": "constitutional monarchy",
+        "history_description": "The United Kingdom (UK) is a country located off the northwestern coast of mainland Europe. It was once the center of the British Empire and has a significant influence on global culture, politics, and economy.",
+        "landscapes": [
+            "Coastline",
+            "Mountains",
+            "Plains"
+        ],
+        "languages": [
+            "English"
+        ],
+        "memberships": [
+            "UN",
+            "Commonwealth",
+            "G7"
+        ],
+        "military_situation": "strong",
+        "continent": "europe"
+    },
+    "Belarus": {
+        "currency": "Belarusian ruble",
+        "economic_status": "low",
+        "capital_city": "Minsk",
+        "approximate_population": "approximately number of citizens: 9,400,000",
+        "political_status": "presidential republic",
+        "history_description": "Belarus is a landlocked country in Eastern Europe known for its Soviet-era architecture and strong ties with Russia. It was part of the former Soviet Union.",
+        "landscapes": [
+            "Plains",
+            "Forests",
+            "Lakes"
+        ],
+        "languages": [
+            "Belarusian",
+            "Russian"
+        ],
+        "memberships": [
+            "CSTO",
+            "CIS",
+            "EAEU"
+        ],
+        "military_situation": "strong",
+        "continent": "europe"
+    },
+    "Sweden": {
+        "currency": "Swedish krona",
+        "economic_status": "strong",
+        "capital_city": "Stockholm",
+        "approximate_population": "approximately number of citizens: 10,300,000",
+        "political_status": "constitutional monarchy",
+        "history_description": "Sweden is a Nordic country known for its innovation, welfare system, and stunning natural landscapes. It has a rich Viking history and was a powerful empire during the 17th century.",
+        "landscapes": [
+            "Forests",
+            "Lakes",
+            "Mountains"
+        ],
+        "languages": [
+            "Swedish"
+        ],
+        "memberships": [
+            "EU",
+            "UN"
+        ],
+        "military_situation": "strong",
+        "continent": "europe"
+    },
+    "Switzerland": {
+        "currency": "Swiss franc",
+        "economic_status": "strong",
+        "capital_city": "Bern",
+        "approximate_population": "approximately number of citizens: 8,400,000",
+        "political_status": "federal republic",
+        "history_description": "Switzerland is a landlocked country in Central Europe known for its neutrality, banking sector, and beautiful Alpine landscapes. It has a long history of independence and democracy.",
+        "landscapes": [
+            "Mountains",
+            "Lakes",
+            "Plains"
+        ],
+        "languages": [
+            "German",
+            "French",
+            "Italian",
+            "Romansh"
+        ],
+        "memberships": [
+            "UN",
+            "EFTA"
+        ],
+        "military_situation": "strong",
+        "continent": "europe"
+    },
+    "England": {
+        "currency": "British pound",
+        "economic_status": "strong",
+        "capital_city": "London",
+        "approximate_population": "approximately number of citizens: 56,000,000",
+        "political_status": "constituent country of the UK",
+        "history_description": "England is the largest country in the United Kingdom and has a rich history, including the Anglo-Saxon period, the Norman Conquest, and the British Empire.",
+        "landscapes": [
+            "Countryside",
+            "Coastline",
+            "Mountains"
+        ],
+        "languages": [
+            "English"
+        ],
+        "memberships": [
+            "UK"
+        ],
+        "military_situation": "strong",
+        "continent": "europe"
+    },
+    "Scotland": {
+        "currency": "British pound",
+        "economic_status": "average",
+        "capital_city": "Edinburgh",
+        "approximate_population": "approximately number of citizens: 5,500,000",
+        "political_status": "constituent country of the UK",
+        "history_description": "Scotland is known for its stunning landscapes, including highlands and lochs. It has a unique culture, including bagpipes, kilts, and the legend of Nessie (Loch Ness Monster).",
+        "landscapes": [
+            "Highlands",
+            "Lochs",
+            "Coastline"
+        ],
+        "languages": [
+            "English",
+            "Scottish Gaelic"
+        ],
+        "memberships": [
+            "UK"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Wales": {
+        "currency": "British pound",
+        "economic_status": "average",
+        "capital_city": "Cardiff",
+        "approximate_population": "approximately number of citizens: 3,100,000",
+        "political_status": "constituent country of the UK",
+        "history_description": "Wales is known for its rugged coastline, mountainous national parks, and distinctive Welsh language. It has a Celtic heritage and a history of independent kingdoms.",
+        "landscapes": [
+            "Mountains",
+            "Coastline"
+        ],
+        "languages": [
+            "English",
+            "Welsh"
+        ],
+        "memberships": [
+            "UK"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    },
+    "Northern Ireland": {
+        "currency": "British pound",
+        "economic_status": "average",
+        "capital_city": "Belfast",
+        "approximate_population": "approximately number of citizens: 1,900,000",
+        "political_status": "constituent country of the UK",
+        "history_description": "Northern Ireland is situated on the island of Ireland and shares a border with the Republic of Ireland. It has a complex history of conflict and peace-building efforts.",
+        "landscapes": [
+            "Mountains",
+            "Coastline"
+        ],
+        "languages": [
+            "English",
+            "Irish",
+            "Ulster Scots"
+        ],
+        "memberships": [
+            "UK"
+        ],
+        "military_situation": "average",
+        "continent": "europe"
+    }
+}
