@@ -30,7 +30,8 @@
 ## 💡 About The Project
 <!-- Add a description of your project here -->
 NPM package for retrieving country data based on data from 2021.
-Here more information about the latest version: https://github.com/Sidge4real/landscape/releases/tag/v0.0.1
+More about the latest version: https://github.com/Sidge4real/landscape/releases/tag/v0.0.1
+Introduction to Landscape: https://github.com/Sidge4real/landscape/wiki
 
 ### 🧰 Built With
 <!-- List the technologies or frameworks used in your project -->
