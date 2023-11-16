@@ -54,25 +54,6 @@ This section will guide users on how to get started with AwesomeApp.
 <!-- Provide step-by-step installation instructions -->
 1. npm install landscape
 
-## 📝 Usage
-<!-- Provide examples or instructions on how to use your project -->
-(will be added later)
-
-## 🗺️ Roadmap
-<!-- Share future plans or developments for your project -->
-This section outlines the roadmap and future development plans for AwesomeApp.
-
-## 🤝 Contributing
-<!-- Explain how others can contribute to your project -->
-No contributions
-
-## 📞 Contact
-<!-- Provide contact information for users to reach out to you -->
-I don't have any public contact information. My private information will not be shared.
-
-## 🙏 Acknowledgments
-<!-- Acknowledge and credit any external resources or contributors that have inspired or helped your project -->
-N/A
 
 
 
